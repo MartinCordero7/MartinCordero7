@@ -52,4 +52,4 @@ Sistema de gestión y agendamiento bajo metodología **Scrum**.
 
 Si tu equipo está buscando un perfil proactivo, con bases sólidas en metodologías ágiles (Scrum), desarrollo Full-Stack y experiencia comprobable en testing (QA), ¡me encantaría conversar! 
 
-*   📫 Puedes contactarme a través de [alejomarton@gmail.com] o enviarme un mensaje directo por [https://www.linkedin.com/in/martin-cordero-756b72356/].
+*   📫 Puedes contactarme a través de [alejomarton@gmail.com] o enviarme un mensaje directo por [LinkedIn].
