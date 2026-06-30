@@ -2,8 +2,8 @@
 
 Desarrollador de Software y Analista de Calidad (QA) | Estudiante en la Universidad de las Fuerzas Armadas ESPE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](TU_ENLACE_A_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=flat&logo=gmail)](mailto:TU_CORREO@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/martin-cordero-756b72356/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=flat&logo=gmail)](mailto:alejomarton@gmail.com)
 
 ---
 
@@ -52,4 +52,4 @@ Sistema de gestión y agendamiento bajo metodología **Scrum**.
 
 Si tu equipo está buscando un perfil proactivo, con bases sólidas en metodologías ágiles (Scrum), desarrollo Full-Stack y experiencia comprobable en testing (QA), ¡me encantaría conversar! 
 
-*   📫 Puedes contactarme a través de [TU_CORREO] o enviarme un mensaje directo por [LinkedIn].
+*   📫 Puedes contactarme a través de [alejomarton@gmail.com] o enviarme un mensaje directo por [https://www.linkedin.com/in/martin-cordero-756b72356/].
